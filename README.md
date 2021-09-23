@@ -58,7 +58,7 @@ Otherwise, your code will fail due to fixed path problem.
 - Not round number to 2 digitals
 
 ## Note
-
+- You should write a parser by your self instead of using library.
 - Please do not set working directory(setwd) in a fixed folder. For example,
 ```R
 d <- read.csv("D://DataScience/hw1/example/output1.csv")
