@@ -43,8 +43,8 @@ Otherwise, your code will fail due to fixed path problem.
 ## Advanced scores
 
 - Output format without “: 2 points
-- Concise file name without path: 1 points
-- Concise file name without .csv extension: 1 points
+- Concise file name without path: 1 point1
+- Concise file name without .csv extension: 1 point1
 - Check whether an input file exists or not: 2 points
 - make a folder if an output path is specified: 2 points
 - Check whether weight and height columns exists or not: 2 points
