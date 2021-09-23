@@ -40,7 +40,7 @@ Correct answer gets 9 points of each testing data.
 Otherwise, your code will fail due to fixed path problem.
 
 
-## Bonus
+## Advanced scores
 
 - Output format without “: 2 points
 - Concise file name without path: 1 points
